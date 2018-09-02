@@ -1,0 +1,29 @@
+{
+	"auto_complete": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"draw_white_space": "all",
+	"fold_buttons": true,
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"margin": 2,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"show_definitions": true,
+	"tab_size": 2,
+	"theme": "OneDarkMaterial.sublime-theme",
+	"word_wrap": "false"
+}

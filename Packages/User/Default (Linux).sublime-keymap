@@ -1,0 +1,5 @@
+[
+       { "keys": ["ctrl+shift+f"], "command": "reindent" },
+       { "keys": ["ctrl+k"], "command": "gist" }, // создать gist сниппет
+       { "keys": ["ctrl+i"], "command": "gist_list" } // Получить gist сниппет
+]
